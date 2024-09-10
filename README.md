@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   ![GoLand](https://img.shields.io/badge/-GoLand-black?style=plastic&logo=GoLand)
   ![Mac](https://img.shields.io/badge/-MAC-black?style=plastic&logo=Apple)
   
-- 💻 I believe in the power of technology
 
 #### 🤗 Finally, may there be peace in the world.
 
